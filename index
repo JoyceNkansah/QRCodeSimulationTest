@@ -23,10 +23,7 @@
         h1 {
             color: #ff5733;
         }
-        .qr-code {
-            max-width: 300px;
-            margin: 20px auto;
-        }
+     
 
     </style>
     
