@@ -23,20 +23,13 @@
         h1 {
             color: #ff5733;
         }
-     
-
     </style>
-    
 </head>
 <body>
     <div class="container">
         <h1>Phishing Alert</h1>
         <p>Sorry you have fallen for a phishing scam done by the Renfrewshire council security team</p>
         <p>Please take immediate action by going through the training provided on Ilearn.</p>
-        
-        
-
-        
     </div>
 </body>
 </html>
